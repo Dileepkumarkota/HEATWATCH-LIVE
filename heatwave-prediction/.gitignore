@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+*.log
+
+# Models (large files)
+backend/models/*.pt
+backend/models/*.pkl
+backend/models/*.json
+
+# Node
+frontend/node_modules/
+frontend/build/
+
+# Docker volumes
+postgres_data/
+mlflow_data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/__pycache__/
+
+# Coverage
+.coverage
+htmlcov/

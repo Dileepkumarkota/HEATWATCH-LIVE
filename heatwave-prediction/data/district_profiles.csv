@@ -1,0 +1,9 @@
+district,state,latitude,longitude,population,elderly_pct,children_pct,green_cover_pct,urban_pct,hospital_count
+Vijayawada,Andhra Pradesh,16.5062,80.6480,1048240,0.09,0.17,0.15,0.72,47
+Hyderabad,Telangana,17.3850,78.4867,6731790,0.08,0.19,0.12,0.85,203
+Chennai,Tamil Nadu,13.0827,80.2707,7088000,0.10,0.16,0.11,0.90,189
+Nagpur,Maharashtra,21.1458,79.0882,2405665,0.11,0.18,0.14,0.78,89
+Jaipur,Rajasthan,26.9124,75.7873,3046163,0.09,0.21,0.08,0.70,112
+Ahmedabad,Gujarat,23.0225,72.5714,5570585,0.08,0.20,0.10,0.83,156
+Bhubaneswar,Odisha,20.2961,85.8245,837737,0.10,0.19,0.18,0.65,67
+Lucknow,Uttar Pradesh,26.8467,80.9462,2817105,0.09,0.22,0.13,0.75,98
