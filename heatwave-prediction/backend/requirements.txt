@@ -28,7 +28,7 @@ torch==2.2.0
 torchvision==0.17.0
 
 # Explainability
-shap==0.51.0
+shap==0.44.0
 
 # MLflow
 mlflow==2.9.1
